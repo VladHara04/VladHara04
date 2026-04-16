@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Vladislav!
 
-<!--
-**VladHara04/VladHara04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Enthusiast** focused on **SQL** and Database Design. I enjoy building structured systems and turning raw data into actionable insights.
 
-Here are some ideas to get you started:
+## 🛠 Skills & Tools
+* **Databases**: SQLite, PostgreSQL (Basics)
+* **SQL Techniques**: Complex Joins, Data Normalization, Aggregations (SUM, AVG, GROUP BY)
+* **Tools**: DBeaver, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+* **[Expense Tracker SQL](https://github.com/VladHara04/expense-tracker-sql)** — A relational database for personal finance management with automated reporting.
+
+## 🚀 Learning Goals
+Currently, I'm focusing on mastering **advanced SQL queries** and learning how to build **complex relational schemas** for real-world applications.
+
+## 📫 Connect with me
+* **GitHub**: [VladHara04](https://github.com/VladHara04)
+* **Email**: vladharazha@gmail.com
